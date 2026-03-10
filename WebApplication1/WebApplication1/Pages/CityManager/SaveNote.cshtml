@@ -1,0 +1,30 @@
+﻿@page
+@model WebApplication1.Pages.CityManager.SaveNote
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <form method="post">
+        <div>
+            <label asp-for="Content.Content">Digite o conteúdo:</label>
+            <input asp-for="Content.Content" />
+        </div>
+        
+        <button type="submit">Enviar</button>
+    </form>
+    
+    <div>
+        <a href="../Content.txt" download>Baixar arquivo</a>
+    </div>
+</div>
+</body>
+</html>

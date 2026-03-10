@@ -1,0 +1,28 @@
+﻿@page
+@model WebApplication1.Pages.CityManager.Cities
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+</head>
+<body>
+<div>
+    <h1>Cidades:</h1>
+    <ul class="list-group">
+        @foreach (var city in Model.myCities)
+        {
+            <li class="list-group-item">@city
+                <a class="btn btn-outline-info" asp-page="CityDetails" asp-route-cityName="@city">Detalhar</a>
+            </li>
+        }
+    </ul>
+</div>
+</body>
+</html>

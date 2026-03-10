@@ -1,0 +1,49 @@
+﻿@page
+@model WebApplication1.Pages.CityManager.CreateCountry
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+</head>
+<body>
+<div>
+    <form method="post">
+        <h1>Cadastro de País</h1>
+        
+       @for (int i = 0; i < 5; i++)
+        {
+            <div>
+                <label asp-for="CountryInput[i].CountryName">Digite o nome do País</label>
+                <input asp-for="CountryInput[i].CountryName"/>
+                <span asp-validation-for="CountryInput[i].CountryName" class="text-danger text-decoration-underline"></span>
+            </div>
+        
+            <div>
+                <label asp-for="CountryInput[i].CountryCode">Digite o código do País</label>
+                <input asp-for="CountryInput[i].CountryCode"/>
+                <span asp-validation-for="CountryInput[i].CountryCode" class="text-danger text-decoration-underline"></span>
+            </div>
+        }
+        
+        <button type="submit">Cadastrar</button>
+    </form>
+    
+    @if (Model.CountryList != null)
+    {
+        <ul>
+            @foreach (var country in Model.CountryList)
+            {
+                <li>@country.CountryName, @country.CountryCode</li>
+            }
+        </ul>
+    }
+</div>
+</body>
+</html>

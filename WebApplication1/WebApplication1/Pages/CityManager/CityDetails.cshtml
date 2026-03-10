@@ -1,0 +1,24 @@
+﻿@page "{cityName}"
+@model WebApplication1.Pages.CityManager.CityDetails
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+
+</head>
+<body>
+<div>
+    <h1>Detalhes da cidade:</h1>
+    <p>@Model.CityName</p>
+    <a asp-page="Cities" class="btn-outline-primary btn">Voltar</a>
+
+</div>
+</body>
+</html>
