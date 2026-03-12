@@ -40,6 +40,18 @@ public class CreateCountry : PageModel
 
     public IActionResult OnPost()
     {
+        for (int i = 0; i < CountryInput.Count; i++)
+        {
+            var c = CountryInput[i];
+            if (!string.IsNullOrWhiteSpace(c.CountryName) && !string.IsNullOrWhiteSpace(c.CountryCode))
+            {
+                if (char.ToUpperInvariant(c.CountryName[0]) != char.ToUpperInvariant(c.CountryCode[0]))
+                {
+                    ModelState.AddModelError($"CountryInput[{i}].CountryCode", "O código do país deve começar com a mesma letra do nome.");
+                }
+            }
+        }
+
         if (!ModelState.IsValid)
         {
             Console.WriteLine("Erro");

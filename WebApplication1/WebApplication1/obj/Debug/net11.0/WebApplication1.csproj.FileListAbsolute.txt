@@ -97,3 +97,5 @@ C:\dev\Github\TP2 .NET\WebApplication1\WebApplication1\obj\Debug\net11.0\refint\
 C:\dev\Github\TP2 .NET\WebApplication1\WebApplication1\obj\Debug\net11.0\WebApplication1.pdb
 C:\dev\Github\TP2 .NET\WebApplication1\WebApplication1\obj\Debug\net11.0\WebApplication1.genruntimeconfig.cache
 C:\dev\Github\TP2 .NET\WebApplication1\WebApplication1\obj\Debug\net11.0\ref\WebApplication1.dll
+C:\dev\Github\TP2 .NET\WebApplication1\WebApplication1\obj\Debug\net11.0\compressed\067xer8tla-{0}-tirhy655ar-tirhy655ar.gz
+C:\dev\Github\TP2 .NET\WebApplication1\WebApplication1\obj\Debug\net11.0\compressed\tk7htja7h0-{0}-tirhy655ar-tirhy655ar.gz

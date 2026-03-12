@@ -12,8 +12,10 @@ public class SaveNote : PageModel
     }
     
     [BindProperty]
-    public InputModel Content { get; set; }
+    public InputModel NoteContent { get; set; }
     
+    public string ArquivoSalvo { get; set; }
+
     public void OnGet()
     {
     }
@@ -25,10 +27,13 @@ public class SaveNote : PageModel
             return Page();
         }
 
-        var fileName = $"note-{DateTime.Now:yyyyMMddHHmmss}";
-        using (var writer = new StreamWriter("Content.txt", true))
+        var fileName = $"note-{DateTime.Now:yyyyMMddHHmmss}.txt";
+        var path = Path.Combine("wwwroot/files/", fileName);
+
+        using (var writer = new StreamWriter(path, true))
         {
-            writer.Write(Content.Content);
+            writer.Write(NoteContent.Content);
+            ArquivoSalvo = fileName;
             return Page();
         }
     }

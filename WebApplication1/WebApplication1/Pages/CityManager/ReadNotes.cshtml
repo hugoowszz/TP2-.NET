@@ -1,0 +1,35 @@
+﻿@page
+@model WebApplication1.Pages.CityManager.ReadNotes
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <h2>Lista de arquivos</h2>
+    <ul>
+        @foreach (var arquivo in Model.ListaArquivos)
+        {
+            <li>
+                <a asp-page="./ReadNotes" asp-route-fileName="@arquivo">@arquivo</a>
+            </li>
+        }
+    </ul>
+</div>
+<div>
+    @if (Model.ConteudoArquivo != null)
+    {
+        <div>
+            @Model.nomeArquivo: <pre>@Model.ConteudoArquivo</pre>
+        </div>
+    }
+</div>
+</body>
+</html>

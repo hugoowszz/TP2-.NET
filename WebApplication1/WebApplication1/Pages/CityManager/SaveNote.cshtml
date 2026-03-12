@@ -15,16 +15,20 @@
 <div>
     <form method="post">
         <div>
-            <label asp-for="Content.Content">Digite o conteúdo:</label>
-            <input asp-for="Content.Content" />
+            <label asp-for="NoteContent.Content">Digite o conteúdo:</label>
+            <input asp-for="NoteContent.Content" />
         </div>
         
         <button type="submit">Enviar</button>
     </form>
     
-    <div>
-        <a href="../Content.txt" download>Baixar arquivo</a>
-    </div>
+    @if (Model.ArquivoSalvo != null)
+    {
+        <div>
+            <p>Arquivo salvo com sucesso!</p>
+            <a href="~/files/@Model.ArquivoSalvo" download>Baixar arquivo</a>
+        </div>
+    }
 </div>
 </body>
 </html>

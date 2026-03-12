@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eU1hbmFnZXJcQ3JlYXRlQ291bnRyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/dev/Github/TP2 .NET/WebApplication1/WebApplication1/Pages/CityManager/ReadNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eU1hbmFnZXJcUmVhZE5vdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/dev/Github/TP2 .NET/WebApplication1/WebApplication1/Pages/CityManager/SaveNote.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eU1hbmFnZXJcU2F2ZU5vdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -9,18 +9,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df68ed2a-c050-4b61-93af-841f2e665064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCity.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCity.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCountry.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCountry.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Pages/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/ReadNotes.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/ReadNotes.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCountry.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCountry.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/SaveNote.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/SaveNote.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/SaveNote.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Pages/CityManager/SaveNote.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.staticwebassets.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/net11.0/WebApplication1.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/WebApplication1.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rbcswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/ref/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/ref/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/refint/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/refint/WebApplication1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rjimswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.build.json.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/net11.0/staticwebassets.development.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,53 +49,64 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="6" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/Cities.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/Cities.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/CityDetails.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/CityDetails.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCity.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCity.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCountry.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/CreateCountry.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/ReadNotes.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/ReadNotes.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/SaveNote.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1/Pages/CityManager/SaveNote.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3AljHGDlWZHJ3dCcpc7hcjFFJfn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.WebApplication1: http.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "HotReloadSettingsPage",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.WebApplication1: http.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;HotReloadSettingsPage&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication1: http">
     <configuration name="WebApplication1: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" />
@@ -118,7 +148,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773173961427</updated>
-      <workItem from="1773173962533" duration="6169000" />
+      <workItem from="1773173962533" duration="10868000" />
+      <workItem from="1773270582769" duration="4219000" />
     </task>
     <servers />
   </component>
